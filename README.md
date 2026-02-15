@@ -1,5 +1,7 @@
 # Hi, I'm Patrik 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/patrik-pentikainen/)
+
 I am a software development student and an aspiring full-stack developer with a strong entrepreneurial background.  
 I focus on building practical, real-world projects while continuously expanding my skills in modern software development.
 
@@ -42,14 +44,16 @@ Each repository is structured to demonstrate both technical skills and learning 
 
 ---
 
-## 📫 Contact
+📫 Contact
+🔗 LinkedIn: https://www.linkedin.com/in/patrik-pentikainen/
 
 You can explore my repositories to see my work and development journey.
-More details and links may be added as my projects evolve.
 
 ---
 
 # Hei, olen Patrik 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/patrik-pentikainen/)
 
 Olen ohjelmistokehityksen opiskelija ja tulevaisuuteen suuntautunut full-stack-kehittäjä, jolla on vahva yrittäjätausta.  
 Kehitän osaamistani tekemällä käytännönläheisiä projekteja ja dokumentoimalla oppimisprosessiani GitHubissa.
@@ -93,7 +97,9 @@ Repositoriot on rakennettu siten, että ne kuvaavat sekä teknistä osaamista et
 
 ---
 
-## 📫 Yhteystiedot
+📫 Yhteystiedot
+🔗 LinkedIn: https://www.linkedin.com/in/patrik-pentikainen/
 
 Tutustu repositorioihin nähdäksesi projektini ja kehityspolkuni.
-Lisätietoja ja linkkejä lisätään sitä mukaa, kun projektit kehittyvät.
+
+---
